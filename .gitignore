@@ -1,0 +1,8 @@
+# This is a distribution-only repository. Use an explicit publication allowlist.
+*
+!.gitignore
+!README.md
+!images/
+!images/title.png
+!images/gameplay.png
+!SHA256SUMS.txt
